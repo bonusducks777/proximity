@@ -1,0 +1,3 @@
+DiscoverTabWrapper.tsx
+ProximityTabWrapper.tsx
+AuctionTabWrapper.tsx

@@ -1,0 +1,5 @@
+Please delete these files:
+- DiscoverTabWrapper.tsx
+- ProximityTabWrapper.tsx
+- AuctionTabWrapper.tsx
+They are obsolete and break the UI.
