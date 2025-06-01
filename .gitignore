@@ -1,0 +1,5 @@
+echo node_modules/ > .gitignore
+echo .expo/ >> .gitignore
+echo appv2/mobilereactnativeapp/android/ >> .gitignore
+echo appv2/mobilereactnativeapp/ios/ >> .gitignore
+echo *.o >> .gitignore
